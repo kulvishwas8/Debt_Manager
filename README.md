@@ -31,13 +31,3 @@ streamlit run app.py
 
 
 
-## Future Enhancements
-
-- AI-based repayment suggestions
-- Integration with bank accounts for auto-sync
-- Mobile version
-- Multi-user support for household debt planning
-
-
-
-Would you like me to tailor this README to your actual app structure or add visuals like badges and screenshots?
